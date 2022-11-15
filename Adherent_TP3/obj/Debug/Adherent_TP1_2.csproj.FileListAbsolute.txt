@@ -1,0 +1,9 @@
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\bin\Debug\Adherent_TP1_2.exe.config
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\bin\Debug\Adherent_TP1_2.exe
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\bin\Debug\Adherent_TP1_2.pdb
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\obj\Debug\Adherent_TP1_2.FrmGestionAdherents.resources
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\obj\Debug\Adherent_TP1_2.Properties.Resources.resources
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\obj\Debug\Adherent_TP1_2.csproj.GenerateResource.Cache
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\obj\Debug\Adherent_TP1_2.exe
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\obj\Debug\Adherent_TP1_2.pdb
+C:\Users\BTS-SIO\Desktop\S2 2022 2023\Adherent_TP1_2\Adherent_TP1_2\obj\Debug\Adherent_TP1_2.csprojResolveAssemblyReference.cache
